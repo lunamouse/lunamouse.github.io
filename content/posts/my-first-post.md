@@ -1,6 +1,6 @@
 +++
-date = '2024-12-28T23:09:06+10:30'
-draft = true
-title = 'My First Post'
+date = '2024-12-29T23:09:06+10:30'
+draft = false
+title = 'Static Site'
 +++
-sdsd
+# Proj. 01: Building a Static Site with Hugo 
